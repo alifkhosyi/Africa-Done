@@ -18,6 +18,8 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>UIUserInterfaceStyle</key>
+	<string>Dark</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>
@@ -29,6 +31,10 @@
 	<true/>
 	<key>UILaunchScreen</key>
 	<dict/>
+	<key>CFBundleIconName</key>
+	<string>launch-screen-image</string>
+	<key>Background color</key>
+	<string>launch-screen-color</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
